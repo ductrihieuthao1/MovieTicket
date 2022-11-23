@@ -1,0 +1,17 @@
+.header {
+  background-color: green;
+  display: flex;
+  justify-content: space-around;
+  height: 80px;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.header .logo {
+  font-size: 40px;
+  color: white;
+}
+.header .navbar a {
+  margin-left: 20px;
+  color: white;
+}

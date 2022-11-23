@@ -1,0 +1,18 @@
+.title span {
+  font-size: 30px;
+  font-weight: normal;
+  font-style: italic;
+}
+.btn {
+  background-color: green;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+}
+.btn1 {
+  box-shadow: 3px 3px 5px black;
+}
+.btn2 {
+  font-size: 100px;
+}
